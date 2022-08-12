@@ -65,7 +65,7 @@ body{
 
 #box{
     position: absolute;
-    border: 1px solid red;
+    border: 1px solid #cd001aff;
     height: 400px;
     width: 400px;
     min-width: 160px;
@@ -116,7 +116,7 @@ body{
 }
 
 #box2{
-    border: 1px solid red;
+    border: 1px solid #cd001aff;
     width: 75%;
     height: 200px;
     color: white;
@@ -341,6 +341,7 @@ body{
     }
 
 }
+
 @media screen and (max-height: 650px) {
     #details{
         margin-top: -80px;
